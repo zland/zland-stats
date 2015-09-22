@@ -1,0 +1,6 @@
+{
+  "name": "Stats",
+  "resolveAlias": "stats",
+  "author": "Florian Biewald",
+  "initFiles": ["stores/StatsStore"]
+}
